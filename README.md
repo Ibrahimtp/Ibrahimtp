@@ -26,5 +26,5 @@ Happy to walk through architecture or code samples on a call.
 ## Get in touch
 
 - LinkedIn: [linkedin.com/in/ibrahimtp](https://www.linkedin.com/in/ibrahimtp)
-- Portfolio: [ibrahimtp.netlify.app](https://ibrahimtp.netlify.app/)
+- Portfolio: [ibrahimio.com](https://ibrahimio.com)
 - Email: [ibbbrahimibrahim@gmail.com](mailto:ibbbrahimibrahim@gmail.com)
